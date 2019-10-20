@@ -49,3 +49,15 @@ h2{
 .div1{
                                  min-height:700px;
 }
+ li{
+                height:30px;
+                font-size:14px;
+                color:brown;
+                line-height:30px;
+                border-bottom:1px dotted brown;
+}
+ ul{          
+                padding:20px;
+                border:1px solid brown;
+
+}
